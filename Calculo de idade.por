@@ -27,11 +27,11 @@ programa
 	{
 		escreva("\nvocê é um adulto")
 		}
-	se(resultado >40 e resultado<=50)
+	se(resultado >40 e resultado<=55)
 	{
 		escreva("\nvocê tem meia idade ")
 	}
-	se (resultado>50)
+	se (resultado>55)
 	{
 		escreva("\nVocê é um idoso")
 		}
@@ -43,7 +43,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 634; 
+ * @POSICAO-CURSOR = 633; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
